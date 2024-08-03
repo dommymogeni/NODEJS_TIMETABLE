@@ -1,0 +1,30 @@
+{
+  "name": "timetable",
+  "version": "1.0.0",
+  "description": "timetable",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dommymogeni/NODEJS_TIMETABLE.git"
+  },
+  "keywords": [
+    "timetable",
+    "for",
+    "single",
+    "use"
+  ],
+  "author": "dominic mogeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dommymogeni/NODEJS_TIMETABLE/issues"
+  },
+  "homepage": "https://github.com/dommymogeni/NODEJS_TIMETABLE#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
